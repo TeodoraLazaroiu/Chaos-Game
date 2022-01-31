@@ -1,9 +1,0 @@
-name: "Chaos Game Documentation"
-output_dir: "root"
-navbar:
-  title: "Chaos Game"
-  left:
-  - text: "Chaos Game"
-   href: index.html
-output:
-  html_document:

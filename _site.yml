@@ -1,0 +1,12 @@
+name: "chaos-game"
+output_dir: "docs"
+navbar:
+  title: "Chaos Game"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "Documentatie Chaos Game"
+   href: Documentatie-Chaos-Game.html
+output:
+  html_document:
+ theme: cosmo

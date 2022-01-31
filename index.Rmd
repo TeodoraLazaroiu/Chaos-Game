@@ -1,5 +1,6 @@
 ---
-title: "Documentatie Chaos Game"
+title: "Documentație Chaos Game"
+output: html_document
 ---
 
 <style>
